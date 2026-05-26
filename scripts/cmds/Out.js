@@ -34,7 +34,7 @@ module.exports = {
 ╭── 👋 𝗔𝘂 𝗥𝗲𝘃𝗼𝗶𝗿 ───
 │ 🤖 ${botName} quitte
 │ ce groupe à la demande
-│ du propriétaire.
+│ du propriétaire chris st.
 │
 │ 💬 Merci pour votre
 │ accueil et à bientôt.
